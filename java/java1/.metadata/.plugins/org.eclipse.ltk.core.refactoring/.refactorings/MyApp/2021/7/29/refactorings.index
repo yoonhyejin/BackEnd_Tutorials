@@ -1,0 +1,9 @@
+1626420416715	Extract local variable 'valueOfSupply'
+1626421505024	Extract method 'getVat'
+1626421528832	Convert local variable 'valueOfSupply' to field
+1626421543935	Convert local variable 'vatRate' to field
+1626421670932	Extract method 'getTotal'
+1626421847963	Extract method 'getIncome'
+1626421915420	Extract method 'getDivident1'
+1626421922719	Extract method 'getDivident2'
+1626421969303	Extract method 'getDividend3'

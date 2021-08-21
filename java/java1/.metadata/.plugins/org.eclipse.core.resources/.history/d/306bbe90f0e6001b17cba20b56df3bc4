@@ -1,0 +1,17 @@
+class DummyCal {
+	public int sum(int v1, int v2) {
+		return 3;
+	}
+}
+
+
+public class InterfaceApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DummyCal c = new DummyCal();
+		System.out.println(c.sum(2,1));
+
+	}
+
+}

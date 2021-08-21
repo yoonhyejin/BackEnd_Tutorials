@@ -1,0 +1,19 @@
+
+public class MyOOP {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String delimiter = "----";
+		printA(delimiter);
+		
+		printA(delimiter);
+	}
+	
+	public static void printA(String delimiter) {
+		System.out.println(delimiter);
+		System.out.println("A");
+		System.out.println("A");
+		
+	}
+
+}
